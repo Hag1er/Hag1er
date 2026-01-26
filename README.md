@@ -27,9 +27,10 @@ Currently learning: **SQL and Data Visualization**
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
 
-## 🧰 Technology Stack ^^
+## 🧰 Technology Stack :
 
-###📊 Data Visualization & Analytics
+### 📊 Data Visualization & Analytics
+
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
