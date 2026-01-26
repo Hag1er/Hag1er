@@ -19,7 +19,9 @@ I'm passionate about **learning new skills, solving problems, and working on pra
 
 💻I’ve completed **courses in Excel and Power BI**, and have worked on **projects in data visualization and reporting**.  
 Skilled in **Excel** and **Power BI**
+
 currently learning **SQL**
+
 planning to learn **Python** next.  
 
 **Some of my projects include:**  
