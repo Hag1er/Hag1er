@@ -29,18 +29,18 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ## 🧰 Technology Stack :
 
-### 📊 Data Visualization & Analytics
+### 📊 Data Visualization & Analytics :-
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 🧩 Tools & Platforms I Use
+### 🧩 Tools & Platforms I Use :-
  <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>      
 
 
 
 
- <h3 align="left">Feel free to reach out or connect with me:</h3>
+ <h3 align="left">Feel free to reach out or connect with me:-</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager-gamal-67747228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager-gamal-67747228b" height="30" width="40" /></a>
 </p>
