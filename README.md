@@ -10,7 +10,7 @@
   <img height="300" width="700" alt="My GIF" src="https://github.com/Hag1er/Hag1er/blob/main/assets/Anime Keyboard GIF - Anime Keyboard Typing Fast - Discover & Share GIFs.gif?raw=true">
 </div>
 
-
+---
 
 ## 👩‍💻 About Me :-
 
