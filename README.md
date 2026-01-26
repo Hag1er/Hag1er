@@ -18,10 +18,16 @@ I’ve completed **courses in Excel and Power BI**, and have worked on **project
 **Some of my projects include:**  
 - 📊 *Marketing Dashboard for  Al-Muka'ab Company* – visualizing sales and marketing data to support decision-making.  
 
-Currently learning: **SQL, Data Analysis, and Data Visualization**  
+Currently learning: **SQL and Data Visualization**  
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager-gamal-67747228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager-gamal-67747228b" height="30" width="40" /></a>
 </p>
+
+
+## 🧰 Tech Stack
+
+### 🧩 Tools & Platforms  
+ <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>                                                
