@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img height="300" width="700" alt="My GIF" src="https://github.com/Hag1er/Hag1er/blob/main/assets/mygif.gif?raw=true">
+  <img height="300" width="700" alt="My GIF" src="https://github.com/Hag1er/Hag1er/blob/main/assets//Oh, Totoro_ I could never say goodbye to you_.gif?raw=true">
 </div>
 
 
