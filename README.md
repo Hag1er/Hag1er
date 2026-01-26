@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hager-gamal-67747228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
-<a href="mailto:hagergamal2500@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail"></a>
+<a href="mailto:hagergamal2500@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"></a>
 </p>
 
 
