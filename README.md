@@ -25,7 +25,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ---
 
-## 🧰 Technology Stack :-
+## 🧰 Tech Stack :-
 
 ### 📊 Data Visualization & Analytics :-
 
