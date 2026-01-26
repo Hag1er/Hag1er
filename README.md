@@ -18,11 +18,7 @@ Hi there! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at 
 I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
 
 💻I’ve completed **courses in Excel and Power BI**, and have worked on **projects in data visualization and reporting**.  
-Skilled in **Excel** and **Power BI**
-
-currently learning **SQL**
-
-planning to learn **Python** next.  
+Skilled in **Excel** and **Power BI** ,currently learning **SQL** and planning to learn **Python** next.  
 
 **Some of my projects include:**  
 - 📊 *Marketing Dashboard for  Al-Muka'ab Company* – visualizing marketing data to support decision-making.  
