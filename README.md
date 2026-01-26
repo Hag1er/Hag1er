@@ -6,7 +6,9 @@
 <a href="mailto:hagergamal2500@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B0000?logo=gmail"></a>
 </p>
 
-
+<div align="center">
+  <img height="300" width="700" alt="My GIF" src="https://github.com/Hag1er/Hag1er/blob/main/assets/mygif.gif?raw=true">
+</div>
 
 
 
