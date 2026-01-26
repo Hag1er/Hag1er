@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me 
 
-Hi there! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **Sohag University**.  
+Yokoso! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **Sohag University**.  
 I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
 
 💻I’ve completed **courses in Excel and Power BI**, and have worked on **projects in data visualization and reporting**.  
