@@ -16,7 +16,7 @@ I’ve completed **courses in Excel and Power BI**, and have worked on **project
 💻 Skilled in **Excel** and **Power BI**, currently learning **SQL**, and planning to learn **Python** next.  
 
 **Some of my projects include:**  
-- 📊 *Marketing Dashboard for El-Mokabib Company* – visualizing sales and marketing data to support decision-making.  
+- 📊 *Marketing Dashboard for  Al-Muka'ab Company* – visualizing sales and marketing data to support decision-making.  
 
 Currently learning: **SQL, Data Analysis, and Data Visualization**  
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
