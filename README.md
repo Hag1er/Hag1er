@@ -25,7 +25,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 ## 🧰 Tech Stack
 
 ### 🧩 Tools & Platforms  
- <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>      
+ <img src="https://img.shields.io/badge/Kaggle--5C2D91?style=for-the-badge&logo=kaggle&logoColor=white"/>      
 
 
 
