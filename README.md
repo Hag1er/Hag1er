@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm Hager Gamal</h1>
+<h1 align="center">Yo, I'm Hager Gamal ^^ </h1>
 <h3 align="center"> Biostatistics | Data Analysis | Excel | Power bi </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 
 
-## 👩‍💻 About Me 
+## 👩‍💻 About Me :
 
 Yokoso! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **Sohag University**.  
 I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
@@ -27,9 +27,13 @@ Currently learning: **SQL and Data Visualization**
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
 
-## 🧰 Tech Stack
+## 🧰 Technology Stack ^^
 
-### 🧩 Tools & Platforms  
+###📊 Data Visualization & Analytics
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🧩 Tools & Platforms I Use
  <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>      
 
 
