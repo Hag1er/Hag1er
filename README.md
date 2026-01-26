@@ -35,7 +35,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 
 
- <h3 align="left">Connect with me:</h3>
+ <h3 align="left">Feel free to reach out or connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager-gamal-67747228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager-gamal-67747228b" height="30" width="40" /></a>
 </p>
