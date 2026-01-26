@@ -12,7 +12,7 @@
 
 
 
-## 👩‍💻 About Me :
+## 👩‍💻 About Me :-
 
 Yokoso! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **Sohag University**.  
 I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
@@ -26,8 +26,9 @@ Skilled in **Excel** and **Power BI** ,currently learning **SQL** and planning t
 Currently learning: **SQL and Data Visualization**  
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
+---
 
-## 🧰 Technology Stack :
+## 🧰 Technology Stack :-
 
 ### 📊 Data Visualization & Analytics :-
 
@@ -38,7 +39,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
  <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>      
 
 
-
+---
 
  <h3 align="left">Feel free to reach out or connect with me :-</h3>
 <p align="left">
