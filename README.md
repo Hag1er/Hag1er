@@ -5,6 +5,13 @@
 <a href="https://www.linkedin.com/in/hager-gamal-67747228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-003366?logo=linkedin">
 <a href="mailto:hagergamal2500@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B0000?logo=gmail"></a>
 </p>
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://www.pinterest.com/pin/128352658105090179/">
+</div>
+
+</br>
+</br>
+</br>
 
 
 ## 👩‍💻 About Me 
