@@ -1,5 +1,5 @@
 <h1 align="center">Yo, I'm Hager Gamal ^^ </h1>
-<h3 align="center"> Biostatistics | Data Analysis | Excel | Power bi </h3>
+<h3 align="center"> Passionate Data Analyst | Turning Data into Insights </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hager-gamal-67747228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-003366?logo=linkedin">
