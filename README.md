@@ -27,16 +27,13 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 ## 🧰 Tech Stack :-
 
 ### 📊 Data Visualization & Analytics :-
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧩 Tools & Platforms I Use :-
- <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>      
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+ <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=blue" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=orange" />
 
 ---
 
