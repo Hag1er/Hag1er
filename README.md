@@ -18,9 +18,8 @@ Yokoso! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **
 I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
 
 💻I’ve completed **courses in Excel and Power BI**, and have worked on **projects in data visualization and reporting**.  
-Skilled in **Excel** and **Power BI** ,currently learning **SQL** and planning to learn **Python** next.  
+Skilled in **Excel**, **Power BI**, **SQL** and **Python**.  
 
-Currently learning: **SQL and Data Visualization**  
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
 ---
@@ -31,10 +30,13 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧩 Tools & Platforms I Use :-
  <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>      
-
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
