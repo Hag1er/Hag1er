@@ -17,8 +17,7 @@
 Yokoso! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **Sohag University**.  
 I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
 
-💻I’ve completed **courses in Excel and Power BI**, and have worked on **projects in data visualization and reporting**.  
-Skilled in **Excel**, **Power BI**, **SQL** and **Python**.  
+💻Proficient in **Excel, Power BI, SQL, and Python**, with hands-on experience in building data visualizations and reporting solutions through various practical projects.  
 
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
