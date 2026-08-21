@@ -22,7 +22,7 @@ I'm passionate about **learning new skills, solving problems, and working on pra
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
 ---
-### 🧰 Tech Stack :-
+## 🧰 Tech Stack :-
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40" alt="Excel" />
@@ -35,7 +35,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ---
 
-### 🧩 Tools & Platforms :-
+## 🧩 Tools & Platforms :-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
@@ -44,7 +44,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ---
 
-### 🛠️ Featured SQL Project :-
+## 🛠️ Featured SQL Project :-
  #### 🍽️ [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
 > An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
 
