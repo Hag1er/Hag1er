@@ -44,7 +44,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ---
 
-## 🛠️ Featured SQL Project :-
+## 🛠️ Featured Project :-
  #### 🍽️ [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
 > An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
 
