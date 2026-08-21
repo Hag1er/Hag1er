@@ -34,6 +34,10 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 ### 🧩 Tools & Platforms I Use :-
  <img src="https://img.shields.io/badge/Kaggle--20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=blue" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=orange" />
 
+ ### 🛠️ Featured SQL Project
+ #### 🍽️ [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
+> An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
+
 ---
 
  <h3 align="left">Feel free to reach out or connect with me :-</h3>
