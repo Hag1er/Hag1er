@@ -37,8 +37,8 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 ### 🧩 Tools & Platforms :-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /> &nbsp;
 </p>
 
