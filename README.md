@@ -10,6 +10,7 @@
   <img height="300" width="700" alt="My GIF" src="https://github.com/Hag1er/Hag1er/blob/main/assets/Anime Keyboard GIF - Anime Keyboard Typing Fast - Discover & Share GIFs.gif?raw=true">
 </div>
 
+
 ---
 
 ## 👩‍💻 About Me :-
@@ -21,7 +22,7 @@ I'm passionate about **learning new skills, solving problems, and working on pra
 
 Always looking to **collaborate on data-driven projects and improve my analysis skills!**
 
----
+
 ## 🧰 Tech Stack :-
 
 <p align="left">
@@ -33,7 +34,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> &nbsp;
 </p>
 
----
+
 
 ## 🧩 Tools & Platforms :-
 <p align="left">
@@ -42,13 +43,13 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /> &nbsp;
 </p>
 
----
+
 
 ## 🛠️ Projects :-
  #### 🍽️ [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
 > An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
 
----
+
 
  <h3 align="left">Feel free to reach out or connect with me :-</h3>
 <p align="left">
