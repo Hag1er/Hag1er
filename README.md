@@ -22,7 +22,7 @@ continuously exploring, learning, and expanding my skill set. Through diverse le
 For me, tools and projects are a means to an end: transforming raw data into actionable insights that solve real business problems, drive growth, and unlock hidden opportunities. Driven by this purpose, I constantly strive to upgrade my knowledge and learn new analytical methodologies.
 
 **Certifications & Continuous Learning:**
-- [Course / Certificate Name 1]
+- **Transact-SQL Queries using SQL Server** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
 - [Course / Certificate Name 2]
 - [Course / Certificate Name 3]
 
