@@ -29,7 +29,6 @@ For me, tools and projects are a means to an end: transforming raw data into act
 - **Transact-SQL Queries using SQL Server(Mahara-Tech)** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
 
 ####   *Always open to connecting, collaborating on data-driven projects, and discussing all  data things :)*
-<br>
 
 ## Explore My Projects :-
  ####  [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
