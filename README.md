@@ -12,6 +12,7 @@
 
 
 ---
+<br>
 
 ## 👩‍💻 About Me :-
 Yokoso! I'm Hager Gamal, a passionate Data Analyst.
@@ -28,8 +29,9 @@ For me, tools and projects are a means to an end: transforming raw data into act
 - **Transact-SQL Queries using SQL Server(Mahara-Tech)** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
 
 ####   *Always open to connecting, collaborating on data-driven projects, and discussing all  data things :)*
+<br>
 
-## Explore My Projects:-
+## Explore My Projects :-
  ####  [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
 > An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
 > 
@@ -38,6 +40,8 @@ For me, tools and projects are a means to an end: transforming raw data into act
 > 
  ####  [Smart Cities Performance & Insights Dashboard](https://github.com/Hag1er/SmartCities-PowerBi-Analysis)
 > An end-to-end Power BI analysis evaluating global smart cities Project, exploring core urban pillars, and uncovering key liveability trends.
+
+<br>
 
 
 ## 🧰 Tech Stack :-
@@ -51,6 +55,7 @@ For me, tools and projects are a means to an end: transforming raw data into act
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> &nbsp;
 </p>
 
+<br>
 
 ## 🧩 Tools & Platforms I Used :-
 <p align="left">
@@ -58,6 +63,8 @@ For me, tools and projects are a means to an end: transforming raw data into act
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /> &nbsp;
 </p>
+
+<br>
 
 <h3 align="left"> Feel free to reach out or connect with me :- </h3>
 <p align="left">
