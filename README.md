@@ -17,7 +17,7 @@
 ## 👩‍💻 About Me :-
 Yokoso! **I'm Hager Gamal, a passionate Data Analyst.**
 
-For nearly 3 years, I’ve been diving deep into the world of data...
+For nearly 3 years, I’ve been diving deep into the data world ...<br>
 continuously exploring, learning, and expanding my skill set. Through diverse learning paths, I’ve mastered tools such as Excel, Power BI, SQL Server, and Python, applying them across various practical projects.
 
 For me, tools and projects are a means to an end: transforming raw data into actionable insights that solve real business problems, drive growth, and unlock hidden opportunities. Driven by this purpose, I constantly strive to upgrade my knowledge and learn new analytical methodologies.
