@@ -65,7 +65,7 @@ For me, tools and projects are a means to an end: transforming raw data into act
 
 <br>
 
-## Get in Touch: :- 
+## Get in Touch :- 
 <p align="left">
 <a href="https://linkedin.com/in/hager-gamal-67747228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager-gamal-67747228b" height="30" width="40" /></a>
 </p>
