@@ -22,11 +22,23 @@ continuously exploring, learning, and expanding my skill set. Through diverse le
 For me, tools and projects are a means to an end: transforming raw data into actionable insights that solve real business problems, drive growth, and unlock hidden opportunities. Driven by this purpose, I constantly strive to upgrade my knowledge and learn new analytical methodologies.
 
 **Certifications & Continuous Learning:**
-- **Transact-SQL Queries using SQL Server(Mahara-Tech)** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
+
+- **Database Fundamentals (Mahara-Tech)** — [View Certificate 🔗](<assets/Database Fundamental.jpg>)
 - **Statistics (365 Data Science)** — [View Certificate 🔗](assets/Screenshot%202026-03-24%20184505.png)
-- [Course / Certificate Name 3]
+- **Transact-SQL Queries using SQL Server(Mahara-Tech)** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
 
 ####   *Always open to connecting, collaborating on data-driven projects, and discussing all  data things :)*
+
+## Explore My Projects:-
+ ####  [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
+> An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
+> 
+ ####  [Superstore Sales & Profitability Analysis](https://github.com/Hag1er/SuperStore_2019-Python-Analysis)
+> An end-to-end Superstore sales analysis using Python to explore key business metrics, customer behavior, and product performance with clear data visualizations.
+> 
+ ####  [Smart Cities Performance & Insights Dashboard](https://github.com/Hag1er/SmartCities-PowerBi-Analysis)
+> An end-to-end Power BI analysis evaluating global smart cities Project, exploring core urban pillars, and uncovering key liveability trends.
+
 
 ## 🧰 Tech Stack :-
 
@@ -40,7 +52,6 @@ For me, tools and projects are a means to an end: transforming raw data into act
 </p>
 
 
-
 ## 🧩 Tools & Platforms I Used :-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
@@ -48,15 +59,7 @@ For me, tools and projects are a means to an end: transforming raw data into act
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /> &nbsp;
 </p>
 
-
-
-## Explore My Projects:-
- #### 🍽️ [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
-> An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
- ####
-
-
-## <h3 align="left"> Feel free to reach out or connect with me :- </h3>
+<h3 align="left"> Feel free to reach out or connect with me :- </h3>
 <p align="left">
 <a href="https://linkedin.com/in/hager-gamal-67747228b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hager-gamal-67747228b" height="30" width="40" /></a>
 </p>
