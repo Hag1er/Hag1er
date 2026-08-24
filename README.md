@@ -14,14 +14,19 @@
 ---
 
 ## 👩‍💻 About Me :-
+Yokoso! I'm Hager Gamal, a passionate Data Analyst.
 
-Yokoso! I'm **Hager Gamal**, a **Biostatistics and Data Analysis** student at **Sohag University**.  
-I'm passionate about **learning new skills, solving problems, and working on practical data projects**.  
+For nearly 3 years, I’ve been diving deep into the world of data...
+continuously exploring, learning, and expanding my skill set. Through diverse learning paths, I’ve mastered tools such as Excel, Power BI, SQL Server, and Python, applying them across various practical projects.
 
-💻Proficient in **Excel, Power BI, SQL, and Python**, with hands-on experience in building data visualizations and reporting solutions through various practical projects.  
+For me, tools and projects are a means to an end: transforming raw data into actionable insights that solve real business problems, drive growth, and unlock hidden opportunities. Driven by this purpose, I constantly strive to upgrade my knowledge and learn new analytical methodologies.
 
-Always looking to **collaborate on data-driven projects and improve my analysis skills!**
+**Certifications & Continuous Learning:**
+- [Course / Certificate Name 1]
+- [Course / Certificate Name 2]
+- [Course / Certificate Name 3]
 
+####   *Always open to connecting, collaborating on data-driven projects, and discussing all  data things :)*
 
 ## 🧰 Tech Stack :-
 
@@ -36,7 +41,7 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 
 
-## 🧩 Tools & Platforms :-
+## 🧩 Tools & Platforms I Used :-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
@@ -45,10 +50,10 @@ Always looking to **collaborate on data-driven projects and improve my analysis 
 
 
 
-## 🛠️ Projects :-
+## Explore My Projects:-
  #### 🍽️ [Restaurant Sales & Customer Behavior Analysis](https://github.com/Hag1er/Restaurant-SQL-Analysis)
 > An end-to-end SQL analysis project evaluating restaurant sales, menu pricing, peak ordering days, and top revenue drivers using **SQL Server**.
-
+ ####
 
 
 ## <h3 align="left"> Feel free to reach out or connect with me :- </h3>
