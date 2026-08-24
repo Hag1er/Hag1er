@@ -22,8 +22,8 @@ continuously exploring, learning, and expanding my skill set. Through diverse le
 For me, tools and projects are a means to an end: transforming raw data into actionable insights that solve real business problems, drive growth, and unlock hidden opportunities. Driven by this purpose, I constantly strive to upgrade my knowledge and learn new analytical methodologies.
 
 **Certifications & Continuous Learning:**
-- **Transact-SQL Queries using SQL Server** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
-- [Course / Certificate Name 2]
+- **Transact-SQL Queries using SQL Server(Mahara-Tech)** — [View Certificate 🔗](assets/Course_Certificate_En.pdf)
+- **Statistics (365 Data Science)** — [View Certificate 🔗](assets/Screenshot%202026-03-24%20184505.png)
 - [Course / Certificate Name 3]
 
 ####   *Always open to connecting, collaborating on data-driven projects, and discussing all  data things :)*
