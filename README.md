@@ -15,7 +15,7 @@
 <br>
 
 ## 👩‍💻 About Me :-
-Yokoso! I'm Hager Gamal, a passionate Data Analyst.
+Yokoso! **I'm Hager Gamal, a passionate Data Analyst.**
 
 For nearly 3 years, I’ve been diving deep into the world of data...
 continuously exploring, learning, and expanding my skill set. Through diverse learning paths, I’ve mastered tools such as Excel, Power BI, SQL Server, and Python, applying them across various practical projects.
@@ -44,7 +44,7 @@ For me, tools and projects are a means to an end: transforming raw data into act
 <br>
 
 
-## 🧰 Tech Stack :-
+## Data Stack :-
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40" alt="Excel" />
@@ -57,7 +57,7 @@ For me, tools and projects are a means to an end: transforming raw data into act
 
 <br>
 
-## 🧩 Tools & Platforms I Used :-
+## Tools & Platforms I Used :-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle" />
