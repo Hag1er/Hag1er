@@ -15,7 +15,7 @@
 <br>
 
 ## 👩‍💻 About Me :-
-Yokoso! **I'm Hager Gamal, a Junior Data Analyst.**
+Hi! **I'm Hager Gamal, a Junior Data Analyst.**
 
 For nearly 3 years, I’ve been diving deep into the data world ...<br>
 continuously exploring, learning, and expanding my skill set. Through diverse learning paths, I’ve mastered tools such as Excel, Power BI, SQL Server, and Python, applying them across various practical projects.
